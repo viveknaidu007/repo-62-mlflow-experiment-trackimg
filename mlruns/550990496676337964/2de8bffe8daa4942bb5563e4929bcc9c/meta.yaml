@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/poppo/Desktop/github%20ai/end%20to%20end%20by%20vivek/repo-63-mlflow-experiment-trackimg/mlruns/550990496676337964/2de8bffe8daa4942bb5563e4929bcc9c/artifacts
+end_time: 1711526848224
+entry_point_name: ''
+experiment_id: '550990496676337964'
+lifecycle_stage: active
+run_id: 2de8bffe8daa4942bb5563e4929bcc9c
+run_name: traveling-zebra-491
+run_uuid: 2de8bffe8daa4942bb5563e4929bcc9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711526831377
+status: 3
+tags: []
+user_id: poppo

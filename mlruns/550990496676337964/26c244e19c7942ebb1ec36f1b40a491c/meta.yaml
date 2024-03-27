@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/poppo/Desktop/github%20ai/end%20to%20end%20by%20vivek/repo-63-mlflow-experiment-trackimg/mlruns/550990496676337964/26c244e19c7942ebb1ec36f1b40a491c/artifacts
+end_time: 1711527001675
+entry_point_name: ''
+experiment_id: '550990496676337964'
+lifecycle_stage: active
+run_id: 26c244e19c7942ebb1ec36f1b40a491c
+run_name: bold-shrew-466
+run_uuid: 26c244e19c7942ebb1ec36f1b40a491c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711526983672
+status: 3
+tags: []
+user_id: poppo

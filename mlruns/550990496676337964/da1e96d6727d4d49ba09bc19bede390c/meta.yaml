@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/poppo/Desktop/github%20ai/end%20to%20end%20by%20vivek/repo-63-mlflow-experiment-trackimg/mlruns/550990496676337964/da1e96d6727d4d49ba09bc19bede390c/artifacts
+end_time: 1711526829073
+entry_point_name: ''
+experiment_id: '550990496676337964'
+lifecycle_stage: active
+run_id: da1e96d6727d4d49ba09bc19bede390c
+run_name: amusing-rook-946
+run_uuid: da1e96d6727d4d49ba09bc19bede390c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711526736840
+status: 3
+tags: []
+user_id: poppo

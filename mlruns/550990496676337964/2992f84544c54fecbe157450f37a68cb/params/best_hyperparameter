@@ -1,0 +1,1 @@
+{'classifier__n_neighbors': 5, 'classifier__p': 2, 'tfidf__max_features': 3000}

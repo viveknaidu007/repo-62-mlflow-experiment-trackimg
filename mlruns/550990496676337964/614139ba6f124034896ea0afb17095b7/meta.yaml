@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/poppo/Desktop/github%20ai/end%20to%20end%20by%20vivek/repo-63-mlflow-experiment-trackimg/mlruns/550990496676337964/614139ba6f124034896ea0afb17095b7/artifacts
+end_time: 1711526830920
+entry_point_name: ''
+experiment_id: '550990496676337964'
+lifecycle_stage: active
+run_id: 614139ba6f124034896ea0afb17095b7
+run_name: SVC
+run_uuid: 614139ba6f124034896ea0afb17095b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711526736840
+status: 3
+tags: []
+user_id: poppo
