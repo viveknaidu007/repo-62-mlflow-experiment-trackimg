@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/poppo/Desktop/github%20ai/end%20to%20end%20by%20vivek/repo-63-mlflow-experiment-trackimg/mlruns/550990496676337964/0b969048d232422ca78fbbfdcc14af36/artifacts
+deleted_time: 1711563738364
 end_time: 1711532026852
 entry_point_name: ''
 experiment_id: '550990496676337964'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0b969048d232422ca78fbbfdcc14af36
 run_name: abundant-stoat-72
 run_uuid: 0b969048d232422ca78fbbfdcc14af36

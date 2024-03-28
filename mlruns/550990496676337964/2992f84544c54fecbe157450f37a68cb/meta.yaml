@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/poppo/Desktop/github%20ai/end%20to%20end%20by%20vivek/repo-63-mlflow-experiment-trackimg/mlruns/550990496676337964/2992f84544c54fecbe157450f37a68cb/artifacts
+deleted_time: 1711563738383
 end_time: 1711531798839
 entry_point_name: ''
 experiment_id: '550990496676337964'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2992f84544c54fecbe157450f37a68cb
 run_name: gentle-gull-418
 run_uuid: 2992f84544c54fecbe157450f37a68cb

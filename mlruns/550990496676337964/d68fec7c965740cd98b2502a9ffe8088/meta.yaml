@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/poppo/Desktop/github%20ai/end%20to%20end%20by%20vivek/repo-63-mlflow-experiment-trackimg/mlruns/550990496676337964/d68fec7c965740cd98b2502a9ffe8088/artifacts
+deleted_time: 1711563738369
 end_time: 1711531883106
 entry_point_name: ''
 experiment_id: '550990496676337964'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d68fec7c965740cd98b2502a9ffe8088
 run_name: selective-eel-189
 run_uuid: d68fec7c965740cd98b2502a9ffe8088

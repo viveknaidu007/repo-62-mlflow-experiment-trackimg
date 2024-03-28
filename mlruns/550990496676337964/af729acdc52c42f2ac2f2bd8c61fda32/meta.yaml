@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/poppo/Desktop/github%20ai/end%20to%20end%20by%20vivek/repo-63-mlflow-experiment-trackimg/mlruns/550990496676337964/af729acdc52c42f2ac2f2bd8c61fda32/artifacts
+deleted_time: 1711563738365
 end_time: 1711532017006
 entry_point_name: ''
 experiment_id: '550990496676337964'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: af729acdc52c42f2ac2f2bd8c61fda32
 run_name: agreeable-lynx-262
 run_uuid: af729acdc52c42f2ac2f2bd8c61fda32
